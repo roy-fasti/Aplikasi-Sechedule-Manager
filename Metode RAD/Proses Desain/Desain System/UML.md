@@ -1,4 +1,6 @@
-1. Use Case Diagram : 
+# UML : APLIKASI SECHEDULE MANAGER
+
+## Use Case Diagram : 
 
     Pada Use Diagram ini terdapat 2 Aktor yaitu User dan Database yang di mana aktor tersebut mempunyai beberapa kegiatan 
 yaitu Login ( terdapat jg Daftar dan Lupa Password ), Manage Jadwal ( Tambah Jadwal, Edit Jadwal, Hapus Jadwal ), dan Ganti Password.
