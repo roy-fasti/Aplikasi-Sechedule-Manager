@@ -4,7 +4,7 @@ Pada tahapan ini, *Developer* dan *Client* akan bertemu untuk mengidentifikasi t
 
 Analisa masalah yang dilakukan adalah untuk menyempurnakan keinginan *Client* tentang aplikasi **Schedule Manager**. Adapun solusi dari masalah tersebut, *Developer* mengembangkan aplikasi **Schedule Manager** yang bertujuan untuk melengkapi keinginan *Client* dengan melengkapi fitur agar kebutuhan *Client* terpenuhi.
 
-Dimana Pengumpulan data dalam tahap ini bisa dilakukan dengan sebuah penelitian, observasi maupun wawancara. *Developer* akan menggali informasi dari *Client* untuk mendapatkan masukan sehingga akan tercipta sebuah aplikasi yang bisa melakukan tugas-tugas yang diinginkan oleh *Client* tersebut. Tahapan ini akan menghasilkan dokumen user requirement atau bisa dikatakan sebagai data yang berhubungan dengan keinginan *Client* dalam pembuatan sistem. Dokumen ini yang akan menjadi acuan sistem agar aplikasi yang dijalankan tidak memiliki kendala dalam pengoperasiannya. 
+Dimana Pengumpulan data dalam tahap ini dilakukan dengan sebuah penelitian, observasi maupun wawancara. *Developer* akan menggali informasi dari *Client* untuk mendapatkan masukan sehingga akan tercipta sebuah aplikasi yang bisa melakukan tugas-tugas yang diinginkan oleh *Client* tersebut. Tahapan ini akan menghasilkan dokumen user requirement atau bisa dikatakan sebagai data yang berhubungan dengan keinginan *Client* dalam pembuatan sistem. Dokumen ini yang akan menjadi acuan sistem agar aplikasi yang dijalankan tidak memiliki kendala dalam pengoperasiannya. 
 
 Berikut adalah fitur yang dibutuhkan di dalam sebuah aplikasi **Schedule Manager** yang di bangun oleh *Developer*. 
 
